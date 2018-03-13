@@ -1,3 +1,9 @@
-title: Something
+title: A Website
+
+description: To talk about computer science stuff
+
+show_downloads: true
+
+google_analytics:
 
 theme: jekyll-theme-hacker
